@@ -170,7 +170,7 @@ Bonus Familiar with HTML and CSS? See if you can change the background color, fo
   * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) are great resources (companies don't like it when developers use W3C Schools site)
 
 ### Conclusion / So What?
-+ The way a website looks is vital to the user having a good experience of it. If you navigate to a website that looks like it was built in 1992, you're much less likely to take it seriously. The first step in making sure your website will look good is making sure the content is appropriately structured with the proper HTML tags. The next step is giving it visual flair and style using CSS.
++ The way a website looks is vital to the user having a good experience of it. If you navigate to a website that looks like it was built in 1992, you're much less likely to take it seriously. The first step in making sure your website will look good is making sure the content is appropriately structured with the proper HTML tags. The next step is giving it visual flair and style using CSS -- which we'll learn next week... yay!
 
 ### Hints and Hurdles
 + Emphasize styling and indentation best practices with HTML
