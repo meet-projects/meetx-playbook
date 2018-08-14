@@ -34,7 +34,7 @@ The goals of the MEETx program are threefold:
    - 90%+ “I have enhanced the learning of at least 1 of my peers.” (asked to both teachers and students)
    - 90%+ “I HAD FUN!”
 
-**3. Preperation**
+**3. Preparation**
    - 90% "I am confident in my CS abilities
    - 90% "I am more confident in my ability to learn difficult things."
 
