@@ -128,7 +128,7 @@ Both in terms of content and delivery style.
 
 #### 3. Collaborative.  
 
--"Learning to collaborate is **as** important as learning how to code (reinforced by guest speakers on filed trips).
+- Learning to collaborate is **as** important as learning how to code (reinforced by guest speakers on filed trips).
 - Most exercises are structured to be completed in pairs or in groups.  
 - "Collaborative learning" is emphasized as a value (eg everyone 'a student, everyone a learner.')
 
@@ -140,7 +140,7 @@ Both in terms of content and delivery style.
 
 Anticipation is a key driver of engagement.  Content should be structured sequentially with hooks and cliffhangers that leave students anxious to move to the next stage of a lesson or the next week's lesson.  
 
-Hooks — llear motivations for why somethign is important, useful, or fun to learn need to be upfront in curriculum.  We call this content 'hook-forward' (ie. make students ask 'how the heck did you do that?  how the heck do I do that too!?')
+Hooks are cllear motivations for why something is important, useful, or fun to learn need to be upfront in curriculum.  We call this content 'hook-forward' (ie. make students ask 'how the heck did you do that?  how the heck do I do that too!?')
 
 Content is always
   - You, Ya'll, We (vs. I, you, we).  If you can make students feel the pain of doing something the long way, they build foundational understanding of concepts and also become eager for easier solutions from advanced concepts.
