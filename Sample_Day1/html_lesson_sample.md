@@ -18,6 +18,14 @@
 - paste meeting link in Y1 Classroom Home
 - upload the day's deck to 'presentation' in Y1 Classroom home
 - Link to the github repo for the days lesson in 'Y1 Classroom' home
+- send student reminders
+
+### During Class
+- Acknowledge feedback in beginning of class from previous week
+- Issue feedback at end of class
+
+
+
 
 
 ## Schedule
