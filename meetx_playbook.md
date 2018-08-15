@@ -9,7 +9,7 @@ V. Content Guidelines </br>
 VI. Platform Guidelines </br>
 VII. Feedback Systems <br/>
 VIII. Who is a MEETx Teacher? <br/>
-IX. Teacher Hiring + Training
+IX. Teacher Hiring + Training </br>
 X. Notes
 
 ## I. Overview
