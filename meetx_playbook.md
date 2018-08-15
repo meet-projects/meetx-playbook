@@ -212,6 +212,50 @@ After every class:
   </tr>
 </table>
 
+### Teachers 
+
+#### Day Before Checklist
+- create Y1 Yearlong Course repo
+- collect all github user names from students and make them collaborators on the course repo
+- upload relevant materials
+- text students
+- review student code challenge submissions
+- review deck and lecutre notes, including feedback from previous session
+- pre set-up breakout rooms
+
+#### Day of Checklist
+- set up your Zoom/BBB meeting 
+- paste meeting link in Y1 Classroom Home
+- upload the day's deck to 'presentation' in Y1 Classroom home
+- Link to the github repo for the days lesson in 'Y1 Classroom' home
+- send student reminders
+
+#### During Class
+- Acknowledge feedback in beginning of class from previous week
+- Issue feedback at end of class
+
+### Students
+
+#### Day Before Checklist
+- submit code challenge
+- review previous weeks materials
+- remind your friends about class tomorrow
+
+#### Day of Checklist
+- remind your friends about class
+- find quiet location to take the class 15 minutes before
+- check your internet conenction
+- close all other applications and tabs
+- set up your environment and download all relevant materials
+	- open meetx.rocks
+	- sign into github
+- be awesome in class
+
+#### After Class Checklist
+- fill out feedback form
+- set up times to hang with your friends to review the material and do the code challenges
+
+
 ## VII. Who is a MEETx Teacher?
 
 The following are neccesary characterisitics of a successful MEETx teacher.
