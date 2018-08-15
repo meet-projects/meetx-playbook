@@ -138,16 +138,17 @@ Both in terms of content and delivery style.
 
 ## V. Content Guidelines
 
-Hooks and hangers — Content structured sequentially with cliffhangers…
-Hooks — Clear motivations for why somethign is important, useful, or fun to learn upfront
+Anticipation is a key driver of engagement.  Content should be structured sequentially with hooks and cliffhangers that leave students anxious to move to the next stage of a lesson or the next week's lesson.  
+
+Hooks — llear motivations for why somethign is important, useful, or fun to learn need to be upfront in curriculum.  We call this content 'hook-forward' (ie. make students ask 'how the heck did you do that?  how the heck do I do that too!?')
 
 Content is always
-  - interactive
-  - question/cliffhanger driven (eg fake tweet lab)
-  - hook-forward (ie. make students ask 'how the heck did you do that?  how the heck do I do that too!?'
-  - topical (relative to students and interests and current events.  eg. using taylor swift for fake tweet.n 
-  - diverse appeal
-  - design to complete in pairs or small groups
+  - You, Ya'll, We (vs. I, you, we).  If you can make students feel the pain of doing something the long way, they build foundational understanding of concepts and also become eager for easier solutions from advanced concepts.
+  - Interactive.  Lesson plans should have 'interactive practices,' 'mini-labs,' 'code-alongs,' and CFUs baked in.  
+  - Topical.  Examples relative to students and interests and current events (eg. Facebook in an explanation or a lab after a field trip, using taylor swift for fake tweet, using specific students names)
+  - Diverse appeal.  Examples and labs should avoid themes that might only appeal to a narrow band of interests (eg video games).  Focus on current events, changing the world, music, food, etc.) 
+  - Design to complete in pairs or small groups.  To preserve MEET factor and maintain collabortive environments offline, the vast majority of interactive practices and labs should be designed to be completed in pairs or groups.  
+  - Simulative.  Put students in the driver seat (eg. You are the director of engineering at amazon.  To handle the holiday rush, your boss needs you to update the payment system by building a new object orientation model).
   
  ```
 NO
