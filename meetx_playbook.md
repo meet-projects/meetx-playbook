@@ -19,7 +19,7 @@ Established in 2004, MEET (Middle East Entrepreneurs of Tomorrow) is an educatio
 MEETx is a community of passionate committed educators and special young leaders who are pioneering a new synchronized, blended learning model to bring transformative education to every corner in the region.   
 The potentially high reward of MEETx model comes at great dificulty of execution.  
 
-Year-long (ie after-school) programs face enormous challenges, including staffing, logistics, timing, and engagement.  These challenges are layered on top of the already ambitious academic and social components of MEET.  This playbook is meant to serve as a comprehensive guidelines for overcoming challenges and delivering a succesful program.
+Year-long (ie after-school) programs face enormous challenges, including staffing, logistics, timing, and engagement.  These challenges are layered on top of the already ambitious academic and social components of MEET.  This playbook is meant to serve as a comprehensive guideline for overcoming these challenges and delivering a transformative program.
 
 ## II. MEETx Outcomes
 
