@@ -18,9 +18,11 @@ Established in 2004, MEET (Middle East Entrepreneurs of Tomorrow) is an educatio
 MEETx is a community of passionate committed educators and special young leaders who are pioneering a new synchronized, blended learning model to bring transformative education to every corner in the region.   
 The potentially high reward of MEETx model comes at great dificulty of execution.  
 
+Year-long (ie after-school) programs face enormous challenges, including staffing, logistics, timing, and engagement.  These challenges are layered on top of the already ambitious academic and social components of MEET.  This playbook is meant to serve as a comprehensive guidelines for overcoming challenges and delivering a succesful program.
+
 ## II. MEETx Outcomes
 
-The goals of the MEETx program are threefold:
+The MEETx program's goals are threefold, and successs will be measured against the following KPIs:
 
 **1. Retention**
    - 90% Attendance 
@@ -36,9 +38,9 @@ The goals of the MEETx program are threefold:
 
 **3. Preparation**
    - 90% "I am confident in my CS abilities
-   - 90% "I am more confident in my ability to learn difficult things."
+   - 90% "I am more capable of learning difficult things."
 
-**We believe these goals will be achieved by striving for the following classroom outcomes:**
+**We believe these goals can be achieved by striving for the following classroom outcomes:**
 
   1. Students will have had a blast
   2. Students will feel inspired and motivated after every lesson
@@ -51,8 +53,9 @@ The goals of the MEETx program are threefold:
 
 ## III. Keys to Success
 
-Year-long (ie after-school) programs face enormous challenges, including staffing, logistics, timing, and engagement.  These challenges are layered on top of the already ambitious academic and social components of MEET.  In order to be successful, the following are critical:
-1. **Top-notch teachers**  Teachers who excel not only at relationship and rapport building with students, but who are also skilled in the craft of delivering engaging, topical, interactive lessons.  Given the startup nature of MEETx, they must also be inclined to iterate and experiment rapidly in order to refine the delivery model until its successful.
+Online lesson delivery, particulary in an afer school context, ihas far less room for error than in-person programs.  The challenge of holding student engagement, managing a classroom, working through an ambitious multi-discplnary curriculum, and preserving the 'MEET' factor with a culture of interacitvity and collaboration presents a very high degree-of-difficutly.  In order to be successful
+
+1. **Top-notch teachers**  Teachers who excel not only at relationship and rapport building with students, but who are also skilled in the craft of delivering engaging, topical, interactive lessons.  This means younder teachers, even with content knowledge, are unlikely to be successful, without signficant training.  Given the startup nature of MEETx, they must also be inclined to iterate and experiment rapidly in order to refine the delivery model until its successful.
 2. **Content suited to online delivery**  Content that is hook-heavy, topical, interactive, and collaborative.  
 3. **Delivery that maximizes engagement** by using best practice instructional tactics, interactivity, and *classroom management.*
 4. **Strong Culture**  Students must feel invested in the overall success of the MEETx experiment, as well as the success and well-being of each other.  This set of cultural expectations should be set over the summer and continuously reinforced throughout the year with a mix of internal (eg. "You are pioneers of a program could not only expand MEET's impact, but have have a global impact as well.  Learning how to collaborate is *as* important as learning how to code.  That means learning to learn and teach each other) and external motivations (eg. fieled trips, pizza partys, MEET swag if they meet collective goals).
