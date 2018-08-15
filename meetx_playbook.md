@@ -3,13 +3,14 @@
 ## Contents
 I. Overview </br>
 II. MEETx Outcomes </br>
-II. Keys to Success </br>
-III. Delivery Guidelines </br>
-IV. Content Guidelines </br>
-V. Platform Guidelines </br>
-VI. Feedback Systems <br/>
-VII. Who is a MEETx Teacher? <br/>
-VIII. Notes
+III. Keys to Success </br>
+IV. Delivery Guidelines </br>
+V. Content Guidelines </br>
+VI. Platform Guidelines </br>
+VII. Feedback Systems <br/>
+VIII. Who is a MEETx Teacher? <br/>
+IX. Teacher Hiring + Training
+X. Notes
 
 ## I. Overview
 
