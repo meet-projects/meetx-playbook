@@ -8,3 +8,5 @@ Because you're about to take an HTML trip around the world! Pick any place that 
 1. A short description of why you want to see that attraction
 2. A photo of the attraction
 3. A link to another website for more information about the attraction
+
+Split into teams of two and create a video breakout room.  You have 30 minutes!
