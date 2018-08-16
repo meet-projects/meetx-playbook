@@ -139,11 +139,7 @@ Both in terms of content and delivery style.
 
 ## V. Content Guidelines
 
-Anticipation is a key driver of engagement.  Content should be structured sequentially with hooks and cliffhangers that leave students anxious to move to the next stage of a lesson or the next week's lesson.  
-
-Hooks are cllear motivations for why something is important, useful, or fun to learn need to be upfront in curriculum.  We call this content 'hook-forward' (ie. make students ask 'how the heck did you do that?  how the heck do I do that too!?')
-
-Content is always
+ - "Hook-forward". Hooks are cllear motivations for why something is important, useful, or fun to learn need to be upfront in curriculum.  We call this content 'hook-forward' (ie. make students ask 'how the heck did you do that?  how the heck do I do that too!?').  Anticipation is a key driver of engagement.  Content should be structured sequentially with hooks and cliffhangers that leave students anxious to move to the next stage of a lesson or the next week's lesson.  
   - You, Ya'll, We (vs. I, you, we).  If you can make students feel the pain of doing something the long way, they build foundational understanding of concepts and also become eager for easier solutions from advanced concepts.
   - Interactive.  Lesson plans should have 'interactive practices,' 'mini-labs,' 'code-alongs,' and CFUs baked in.  
   - Topical.  Examples relative to students and interests and current events (eg. Facebook in an explanation or a lab after a field trip, using taylor swift for fake tweet, using specific students names)
@@ -177,7 +173,7 @@ https://github.com/learn-co-curriculum/hs-oo-snapchat/blob/master/README.md
 
 
 
-## VII. Platform Guidelines
+## VI. Platform Guidelines
 
 The goal of the MEETx course design is to be platform-agnostic.  In other words, be modular enough to deliver on a collection of off-the-shelf tools or any LMS.  For the first year, we have chosen a mix of the following technologies:
 
