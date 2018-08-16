@@ -288,6 +288,7 @@ Interview minimum two stages.
 - Who is your favorite teacher ever, why? (Same as above ^^) </br>
 - Tell me about a time you were humbled recently (Is this person humble?  Can they be invested in a feedbakc-heavy culture?) </br>
 - Tell me about a big idea that you got really wrong (Same as above ^^) </br>
+- Tell me about a time when you were frustrated with a student. (Look for someone who can consider this as a challenge, a problem that they would want to solve. A teacher that does not give up on any student.)
 
 
 #### Stage 2 Technical
