@@ -140,7 +140,7 @@ Both in terms of content and delivery style.
 ## V. Content Guidelines
 
  - "Hook-forward". Hooks are cllear motivations for why something is important, useful, or fun to learn need to be upfront in curriculum.  We call this content 'hook-forward' (ie. make students ask 'how the heck did you do that?  how the heck do I do that too!?').  Anticipation is a key driver of engagement.  Content should be structured sequentially with hooks and cliffhangers that leave students anxious to move to the next stage of a lesson or the next week's lesson.  
-  - You, Ya'll, We (vs. I, you, we).  If you can make students feel the pain of doing something the long way, they build foundational understanding of concepts and also become eager for easier solutions from advanced concepts.
+  - ![You, Ya'll, We](http://flipcamp.org/engagingstudents3/essays/segall.html) (vs. I, you, we).  If you can make students feel the pain of doing something the long way, they build foundational understanding of concepts and also become eager for easier solutions from advanced concepts.
   - Interactive.  Lesson plans should have 'interactive practices,' 'mini-labs,' 'code-alongs,' and CFUs baked in.  
   - Topical.  Examples relative to students and interests and current events (eg. Facebook in an explanation or a lab after a field trip, using taylor swift for fake tweet, using specific students names)
   - Diverse appeal.  Examples and labs should avoid themes that might only appeal to a narrow band of interests (eg video games).  Focus on current events, changing the world, music, food, etc.) 
