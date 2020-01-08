@@ -29,10 +29,10 @@ The answer is through a type of programming called object-oriented programming. 
 ## Lesson Plan
 + Create an instance of a Facebook user with a hash
 ```ruby
-steph = {
-  :name => "Steph",
-  :email => "coleman@flatironschool.com",
-  :password => "flatiron",
+dor = {
+  :name => "dor",
+  :email => "dor@meet.mit.edu",
+  :password => "coolhats",
   :friends => 0
 }
 ```
