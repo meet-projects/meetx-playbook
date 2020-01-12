@@ -25,7 +25,8 @@ STORYBOARDING
   + Show example file called _Storyboard demo_, which is saved in Gliffy.
   + Show students how to use Gliffy to put squares and lines and text on page.
 + When storyboarding with Gliffy, students should select a "flowchart".
-+ Show students examples of other Choose Your Own Adventure Games, like [this one](http://www.thing.org/projekte/7:9%23/queneau_1.html).
++ Show students examples of other Choose Your Own Adventure Games
+(http://www.thing.org/projekte/7:9%23/queneau_1.html).
 
 WIREFRAMING (20 minutes)
 + Each group needs: a Gliffy account, a whiteboard and markers, and one laptop.
