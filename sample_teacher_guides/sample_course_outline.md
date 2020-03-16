@@ -1,4 +1,4 @@
-*Note: This is just a sample.  The links dont work.  For a sample Day + Lesson plan, check the folder.
+*Note: This is just a sample.  The links dont work.  For a sample Day + Lesson plan, check the 'Sample Teacher Guide' folder.
 
 # Sample MEET COURSE OUTLINE
 
