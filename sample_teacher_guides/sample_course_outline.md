@@ -1,3 +1,5 @@
+*Note: This is just a sample.  The links dont work.  For a sample Day + Lesson plan, check the folder.
+
 # Sample MEET COURSE OUTLINE
 
 ## Overview
