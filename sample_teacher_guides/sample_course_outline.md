@@ -28,15 +28,15 @@ Here you'll find:
 
 ### [Day 10 - APIs](day-09)
 
-### [Day 11 - Project] (day-10)
+### [Day 11 - Project](day-10)
 
-### [Day 12 - Project] (day-10)
+### [Day 12 - Project](day-11)
 
-### [Day 13 - Project] (day-10)
+### [Day 13 - Project](day-12)
 
-### [Day 14 - Project] (day-10)
+### [Day 14 - Project](day-13)
 
-### [Day 15 - Graduation](day-10)
+### [Day 15 - Graduation](day-14)
 
 
 <a href='https://learn.co/lessons/precollege-summer-intro-software-engineering-track' data-visibility='hidden'>View this lesson on Learn.co</a>
