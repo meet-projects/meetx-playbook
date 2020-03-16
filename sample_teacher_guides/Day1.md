@@ -49,7 +49,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>12:30 - 1:30</td>
-        <td>Intro to Ruby</td>
+        <td>Intro to Python</td>
         <td>
             <a href="lectures/intro-to-ruby/LECTURE.md">Lecture: Intro to Ruby</a></br>
             <a href="lectures/intro-to-ruby">Lecture Notes</a></br>
@@ -63,9 +63,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>1:30 - 2:50</td>
-        <td>Ruby Labs</td>
+        <td>Python Labs</td>
         <td>
-            Keep working on Ruby Labs from earlier
+            Keep working on Python Labs from earlier
         </td>
     </tr>
     <tr>
