@@ -1,3 +1,5 @@
+*note: These are sample links so they do not work.  A full curruciulum guide would lay out each of the 15 days of MEET with this full schedule, SWABTs, links to labs, lesson plans, and presentations.  You can find a sample of a best practice lesson plan format also in this folder.
+
 # Day 1
 
 ## Schedule
