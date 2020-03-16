@@ -1,4 +1,4 @@
-# Sample MEET OUTLINE
+# Sample MEET COURSE OUTLINE
 
 ## Overview
 This repository will act as a course guide/masterplan for Y1
