@@ -1,4 +1,4 @@
-<h1>Unit 4: Python Calculator Project</h1>
+<h1>Week 2 Python Calculator Project</h1>
 
 <b>GROUP PROJECT:</b>
 
