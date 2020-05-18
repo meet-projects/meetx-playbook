@@ -60,4 +60,3 @@ After presentations, there will be a time to ask each group questions about thei
 Without telling students what kind of questions they can’t ask, student’s should be steered away from asking questions to break other groups apps or point out weak spots and bugs. The point is for students to feel proud of their accomplishments and build each other up, not drag each other down. 
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby1-teachers-guide-calculator-project' title='Unit 4: Ruby Calculator Project'>Unit 4: Ruby Calculator Project</a> on Learn.co and start learning to code for free.</p>
