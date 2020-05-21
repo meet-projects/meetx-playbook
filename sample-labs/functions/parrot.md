@@ -1,9 +1,4 @@
-# Happy Parrot - This parrot is so happy. It accepts a 'thing' as its argument and then returns a string where it says how happy it is about the thing!
-def happy_parrot(thing)
-  "I am so happy about #{thing}!"
-end
 
-# Boring Parrot - Write a method for a boring parrot that just returns whatever string you give him as an argument.
 
 ##Polly Wants a Cracker?
 
@@ -85,24 +80,29 @@ Fork and clone this lab and follow along and write your code in the `parrot.rb` 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby-2-parrot-lab' title='Polly Wants a Cracker?'>Polly Wants a Cracker?</a> on Learn.co and start learning to code for free.</p>
 
 
-1. Math Parrot - Create a method that accepts two numbers as arguments and adds them together! 
+1.  Happy Parrot - This parrot is so happy. It accepts a 'thing' as its argument and then returns a string where it says how happy it is about the thing!
+def happy_parrot(thing)
+  "I am so happy about #{thing}!"
+end
+
+2. Boring Parrot - Write a method for a boring parrot that just returns whatever string you give him as an argument.1. Math Parrot - Create a method that accepts two numbers as arguments and adds them together! 
 
 
 
-2. Friendly Parrot - This parrot greets people by returning their name and age (don't forget to pass that information in as arguments).
+3. Friendly Parrot - This parrot greets people by returning their name and age (don't forget to pass that information in as arguments).
 
 
 
-3. Favorites Parrot - Tell this parrot about your three favorite things and he will return "I love <that thing> too!" for each of them.
+4. Favorites Parrot - Tell this parrot about your three favorite things and he will return "I love <that thing> too!" for each of them.
 
 
 
-4.  Now try calling your methods below with any arguments of your choice and puts them to the screen. Like this:
+5.  Now try calling your methods below with any arguments of your choice and puts them to the screen. Like this:
 puts happy_parrot("waffles")
 # call your methods here
 
 
-5.  Now let's pretend you are a wizard and you want to place a spell on each of the parrots so that they speak backwards. How would you do that?
+6.  Now let's pretend you are a wizard and you want to place a spell on each of the parrots so that they speak backwards. How would you do that?
 
 
 
