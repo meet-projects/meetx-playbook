@@ -1,6 +1,6 @@
 
 
-##Polly Wants a Cracker?
+## Polly Wants a Cracker?
 
 ![parrot](http://1.bp.blogspot.com/-HDI-XiLird8/ToaJsehSY0I/AAAAAAAABso/XHXOU_qDK3k/s1600/Parrot+Funny+Pictures_1.jpg)
 
@@ -99,7 +99,7 @@ end
 
 5.  Now try calling your methods below with any arguments of your choice and puts them to the screen. Like this:
 puts happy_parrot("waffles")
-# call your methods here
+
 
 
 6.  Now let's pretend you are a wizard and you want to place a spell on each of the parrots so that they speak backwards. How would you do that?
