@@ -77,9 +77,9 @@ Fork and clone this lab and follow along and write your code in the `parrot.rb` 
 
 ## Resources
 * [Learn to Program](http://books.flatironschool.com/books/43?page=72) - [9.1 Method Parameters](http://books.flatironschool.com/books/43?page=72), page 72
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby-2-parrot-lab' title='Polly Wants a Cracker?'>Polly Wants a Cracker?</a> on Learn.co and start learning to code for free.</p>
 
 
+## Challenges!
 1.  Happy Parrot - This parrot is so happy. It accepts a 'thing' as its argument and then returns a string where it says how happy it is about the thing!
 def happy_parrot(thing)
   "I am so happy about #{thing}!"
