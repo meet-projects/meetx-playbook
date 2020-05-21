@@ -1,6 +1,6 @@
 
 
-##Deaf Grandma
+## Deaf Grandma
 <img src="https://s3.amazonaws.com/after-school-assets/deaf_grandma.jpg" width="400">
 
 ***This is a group/pair lab. Write out pseudo-code first! You'll be coding your solution in `lib/grandma.rb`.***
