@@ -9,22 +9,22 @@ _A full lecture is available [here](LECTURE.md)_
 + Remember all that cool stuff we can do to a string, like `reverse` and `swapcase`? Those methods are part of Ruby's built-in methods. Coding becomes very powerful when you start to write your own methods. They allow you to invoke powerful tasks that you've defined yourself using just one word (the method call). 
 
 ## Lesson Plan
-#####What are methods?
+##### What are methods?
 + METHOD DEFINITION: A set of instructions that tells the computer to do something. You can write code once, and then re-use it as many times as you want.
 + There are PRE-WRITTEN METHODS for different data types. You can use `upcase` on a string but not on an integer or a float.
 ```ruby
 "string".upcase
 ```
-#####Method Chaining: How would you make the word "Ruby" appear in all caps and backwards?
+##### Method Chaining: How would you make the word "Ruby" appear in all caps and backwards?
 ```ruby
 "string".upcase.reverse
 ```
-####Our First Method!
+#### Our First Method!
 + If a method you want to use isn't prewritten, you can create your own.
  
-#####Syntax: Show generic code to students. Walk them through the pieces. DO NOT use `puts` in the body of your method. Use puts to display the return value of your method when you call it later. `puts` in methods gets really confusing, and will prohibit students from putting it all together when they start building their final projects.
+##### Syntax: Show generic code to students. Walk them through the pieces. DO NOT use `puts` in the body of your method. Use puts to display the return value of your method when you call it later. `puts` in methods gets really confusing, and will prohibit students from putting it all together when they start building their final projects.
 
-######OPTIONAL: Prompt students to draw out method example on their whiteboards.
+###### OPTIONAL: Prompt students to draw out method example on their whiteboards.
 ```ruby
 def method_name
  your code goes here!
@@ -44,9 +44,9 @@ def go_home
  # walk out the door
 end
 ```
-######OPTIONAL: Prompt students at their tables to take 2-3 minutes to write out their own method in pseudo code for going to bed.
+###### OPTIONAL: Prompt students at their tables to take 2-3 minutes to write out their own method in pseudo code for going to bed.
 
-####Method With Ruby Code
+#### Method With Ruby Code
 ```ruby
 def hello_world
  "Hello, world!"
